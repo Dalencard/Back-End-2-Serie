@@ -15,3 +15,9 @@ git commit -m "Primeiro teste do repositório" //Para Fazer o commit
 git push //Para mandar para o repositório
 
 
+
+cd .. //Para voltar a pasta mãe
+
+ls //Para ver os diretórios do pc
+
+cd <nome da pasta> //Para entrar na pasta
