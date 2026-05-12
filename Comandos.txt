@@ -1,0 +1,17 @@
+git version //para ver se está instalado na máquina
+
+git clone <link> Para clonar a pasta na máquina
+
+cd <nome da pasta> Para entrar na pasta
+
+Abrir a pasta e os arquivos
+
+git status //Para ver o status atual
+
+git add . //Para adicionar tudo ao commit.
+
+git commit -m "Primeiro teste do repositório" //Para Fazer o commit
+
+git push //Para mandar para o repositório
+
+
