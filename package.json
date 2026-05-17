@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Dalencard/Back-End-2-Serie#readme",
   "dependencies": {
+    "prompt-sync": "^4.2.0",
     "readline-sync": "^1.4.10"
   }
 }
